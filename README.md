@@ -4,7 +4,7 @@ I am a passionate and experienced PHP web developer specializing in building dyn
 🚀 Skills & Expertise
 
 🛠️ Core Competencies:
-  • PHP: Expert in core PHP with a focus on writing clean, maintainable, and efficient code.
+  • PHP: Expert in core PHP, focusing on writing clean, maintainable, and efficient code.
   • Frameworks: Proficient in using popular PHP frameworks like Laravel, YII, Symfony, and CodeIgniter.
   • Front-End Development: Strong knowledge of HTML, CSS, and JavaScript to create responsive and interactive user interfaces.
   • Database Management: Experienced in designing and managing databases using MySQL and MongoDB.
